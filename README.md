@@ -6,7 +6,11 @@ Whether you're dreaming of a weekend getaway or a month-long expedition, Travel 
 Travel Planner AI is a Software as a Service (SaaS) product that leverages cutting-edge technologies to streamline the travel planning process.
 By simply providing a prompt such as "2 days trip to London with budget $1000," our AI-powered tool generates comprehensive travel plans tailored to your preferences.
 
-![image](https://github.com/marvin9830/Travel-AI-Planner/assets/26103679/de21a51b-6d95-427c-a00a-b919dd09c56e "")
+![image](https://github.com/marvin9830/Travel-AI-Planner/assets/0.png "")
+
+![image](https://github.com/marvin9830/Travel-AI-Planner/assets/1.png "")
+
+![image](https://github.com/marvin9830/Travel-AI-Planner/assets/2.png "")
 
 ## Demo
 Check out the live demo [﻿here](https://travelplannerai.online/).
